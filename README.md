@@ -32,7 +32,7 @@ To run this project, you need:
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/mfacu17/etl_challenge.git
+git clone https://github.com/mfacu17/etl-challenge.git
 ```
 2. Create a virtual environment
 ```bash
