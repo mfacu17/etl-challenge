@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Airflow
+airflow.db
+airflow.cfg
+logs/
+unittests.cfg
+
+
+# Env variables and credentials
+.env
+.env.*
+
+# CSV and temp data
+*.log
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# System files
+Thumbs.db
+
+# Setup.py files
+challenge_project.egg-info/
+
+airflow_home/standalone_admin_password.txt
+
+data/*
